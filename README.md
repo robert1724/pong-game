@@ -44,6 +44,14 @@ Features
   - **Win screen** — blue or red fullscreen for 3 seconds, then auto-close
 
 Building & Running
--  This project is built within the [GFX Framework] used in the Computer Graphics course at Politehnica Bucharest.
--  To run, follow the steps explained here https://ocw.cs.pub.ro/courses/egc/setup-framework
--  The project can run from Visual Studio Installer OpenGL or CMake (Linux)
+  -  This project is built within the [GFX Framework] used in the Computer Graphics course at Politehnica Bucharest.
+  -  To run, follow the steps explained here https://ocw.cs.pub.ro/courses/egc/setup-framework
+  -  The project can run from Visual Studio Installer OpenGL or CMake (Linux)
+
+Screenshots
+  - Image 1: "https://github.com/user-attachments/assets/79b8b8b9-d059-4cfb-9acd-d8cd9e8eaca7"
+  - Image 2: "https://github.com/user-attachments/assets/50e09b7e-2df6-4b4b-817b-8ff6a8743490"
+  - Image 3: "https://github.com/user-attachments/assets/d5dcb3fb-b239-4423-8814-bc1b9459a879"
+  - Image 4: "https://github.com/user-attachments/assets/0e862090-6682-432c-a61d-8385961269e9"
+
+
