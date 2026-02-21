@@ -42,3 +42,8 @@ Features
   - **Bumper speed boost** — ball speed increases by **10%** on bumper contact
   - **Paddle animation** — 1.5× vertical scale animation on collision (0.25s duration)
   - **Win screen** — blue or red fullscreen for 3 seconds, then auto-close
+
+Building & Running
+-  This project is built within the [GFX Framework] used in the Computer Graphics course at Politehnica Bucharest.
+-  To run, follow the steps explained here https://ocw.cs.pub.ro/courses/egc/setup-framework
+-  The project can run from Visual Studio Installer OpenGL or CMake (Linux)
